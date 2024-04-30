@@ -4,8 +4,12 @@ public class Anime {
     int capitulos;
     int temporadas;
     boolean incluidoEnElPlan;
-    double sumaDeLasEvaluaciones;
-    int totalDeLasEvaluaciones;
+    private double sumaDeLasEvaluaciones;
+    private int totalDeLasEvaluaciones;
+
+    int getTotalDeLasEvaluaciones(){
+        return totalDeLasEvaluaciones;
+    }
 
     void muestraFichaTecnica(){
         System.out.println("El anime es: " + nombre);
@@ -17,7 +21,6 @@ public class Anime {
 //no necesita retornar nada
     void evalua(double nota) {
         sumaDeLasEvaluaciones += nota;
-        sumaDeLasEvaluaciones = sumaDeLasEvaluaciones + nota;
         totalDeLasEvaluaciones++;
     }
 
