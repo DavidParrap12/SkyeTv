@@ -19,3 +19,7 @@ _
 /src/com/skeytv/Principal/PrincipaConListas.java,8\d\8da95cc106b95688422374761c07d97db7c41f79
 b
 2src/com/skeytv/Principal/PrincipalConBusqueda.java,3\8\386ab46710319e693b49317d2eb2fb98775434e6
+V
+&src/com/skeytv/modelos/TituloOmdb.java,a\4\a42fbe1d3717d8845e5dcbe5d606e24db48b1c7f
+<
+titulos.json,1\5\15c7ab8b9123eaccb1c64c17e32dd57f485dcca7

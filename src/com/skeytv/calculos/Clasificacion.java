@@ -1,2 +1,6 @@
-package com.skeytv.calculos;public class Clasificacion {
+package com.skeytv.calculos;
+
+public interface Clasificacion {
+    int getClasificacion();
+
 }

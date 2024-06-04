@@ -1,6 +1,8 @@
 
 œ
-java:S1210D"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(½µï´8‹…–Áù1J$3a48f742-3b97-45ad-ad92-de05889f7493
-f	java:S1065"+Replace this use of System.out by a logger.(ºßãJ$319b9a21-665a-437f-a4a2-532b52967c20
-f	java:S1066"+Replace this use of System.out by a logger.(®ìŞ‹J$1b714566-9e10-48f2-acb2-8076c3946c89
-f	java:S1067"+Replace this use of System.out by a logger.(ÁîÜ»J$6b01bea4-96d0-49e3-bc8e-56733e928699
+java:S1210L"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(½µï´8ÚŸï¤ü1J$9d4a4a56-6a8f-4806-a226-c7696f22c66b
+m	java:S106="+Replace this use of System.out by a logger.(ºßã8áŸï¤ü1J$c3c8e96d-5a85-4d97-824b-a2c16f058723
+m	java:S106>"+Replace this use of System.out by a logger.(®ìŞ‹8âŸï¤ü1J$9befa734-322d-486d-ae3b-6022b6d9d6da
+m	java:S106?"+Replace this use of System.out by a logger.(ÁîÜ»8âŸï¤ü1J$8dbca2e2-0c82-457a-9d9d-1ba5c6111f6d
+Š
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8à°…ş1J$074f7076-f355-44bb-801f-e7b13bb47fc8

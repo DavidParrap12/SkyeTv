@@ -1,3 +1,5 @@
+package com.skeytv.Principal;
+
 import com.skeytv.calculos.CalculadoraDeTiempo;
 import com.skeytv.calculos.FiltroRecomendacion;
 import com.skeytv.modelos.Episodio;
